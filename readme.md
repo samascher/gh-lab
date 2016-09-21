@@ -28,17 +28,17 @@ Partners will be referred to as partner1 and partner2.
 
 - create a folder called `git-and-github-practice`
 
-- within that folder create the following files `index.html`, `style.css`, and `scripts.js`
+- within that folder create the following files `index.html` and `style.css`
   - 'cd git-and-github-practice'
 - copy and paste the code from the [starter-code](starter-code) from the `index.html` and `style.css` into your own
-- add `// JavaScript to be added` to your `scripts.js` file and link to your JavaScript file
+- Inside the `index.html`, we need to do a little re-branding change all of the occurrences of "Relaxr" to "Relaxor"
 - initiate a git repository, commit your changes, and push to GitHub
 
 
 **With partner2 driving, from their computer:**
 
 - get your partners link to the GitHub repository and fork and clone it
-- open the project and make the 'Join Our Mailing List' button prompt the user for an email
+- open the project and change the background color of the header and testimonial part of the page to a soft green
 - commit your changes and submit a pull request back to partner1
 
 
@@ -54,7 +54,7 @@ Partners will be referred to as partner1 and partner2.
 
 
 - create a folder called `git-and-github-practice-two`
--  within that folder create the following files `index.html`, `style.css`, and `script.js`
+-  within that folder create the following files `index.html` and `style.css`
 -  copy and paste the code from the merged pull request files (of your partners `git-and-github-practice` project) from each of the appropriate files to your own
 - initiate a git repository, commit your changes, and push to GitHub
 > Note: Partner2 should now have the solution from Part 1 locally
@@ -62,7 +62,7 @@ Partners will be referred to as partner1 and partner2.
 **With partner1 driving:**
 
 - get your partner's link to the new GitHub repository - fork and clone it
-- open the project and make sure that after the user enters their email, the button changes its text to say, "Thanks for your email!"
+- open the project and create a button below the "Join our Mailing List" one that says "Check out Something Random" that takes the user to a website of your choosing
 - commit your changes and submit a pull request back to partner2
 
 
@@ -87,7 +87,7 @@ There is no screenshot for this lab.  You should have two separate GitHub reposi
 #### Bonus
 
 - Have you and your partner both cd back to git-and-github-practice.
-- Each of you create and checkout to a branch, either "css-work", "js-work", or "html-work"
+- Each of you create and checkout to a branch, either "css-work" or "html-work"
 - Make some change to the document your branch describes (style.css for branch "css-work" etc.)
 - Commit on that branch
 - Push your branch to github
