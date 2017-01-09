@@ -9,9 +9,9 @@ Market: SF
 > ***Note:*** *This is a pair programming activity.*
 
 
-Let's apply what we've learned from class to share and update each other's code.  With a partner, you're going going to alternate between who 'drives' and who 'navigates' while following the requirements under "Exercise" below. The goal will be to create a project, have a partner fork, clone, and edit the project, submit the changes as a pull request, and then have the changes merged.  
+Let's apply what we've learned from class to share and update each other's code.  With a partner, you're going to alternate between who 'drives' and who 'navigates' while following the requirements under "Exercise" below. The goal will be to create a project, have a partner fork, clone, and edit the project, submit the changes as a pull request, and then have the changes merged.  
 
-Be sure to look at the previous lesson for notes and helpful hints.
+Feel free to look at the [earlier github lesson](https://github.com/den-wdi-2/git-and-github) for notes and helpful hints.
 
 ## Exercise
 
