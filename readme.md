@@ -26,7 +26,7 @@ Partners will be referred to as partner1 and partner2.
 
 **With partner1 driving:**
 
-- create a folder called `git-and-github-practice`
+- create a folder called `git-and-github-practice` **inside your work folder**
 
 - within that folder create the following files `index.html` and `style.css`
   - 'cd git-and-github-practice'
@@ -53,7 +53,7 @@ Partners will be referred to as partner1 and partner2.
 **With partner2 driving**:
 
 
-- create a folder called `git-and-github-practice-two`
+- create a folder called `git-and-github-practice-two` **inside your work folder**
 -  within that folder create the following files `index.html` and `style.css`
 -  copy and paste the code from the merged pull request files (of your partners `git-and-github-practice` project) from each of the appropriate files to your own
 - initiate a git repository, commit your changes, and push to GitHub
@@ -100,17 +100,6 @@ There is no screenshot for this lab.  You should have two separate GitHub reposi
 - [Forking on github](https://help.github.com/articles/fork-a-repo/)
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 - [Linus Travalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
-
-### Self Evaluation
-
-During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
-
-- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
-- **Organization:** Do you thoughtfully implement best coding patterns and practices?
-- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
-- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
-- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
-- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
