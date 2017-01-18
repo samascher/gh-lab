@@ -56,9 +56,10 @@ Partners will be referred to as partner1 and partner2.
 - create a folder called `git-and-github-practice-two` **inside your work folder**
 -  within that folder create the following files `index.html` and `style.css`
 -  copy and paste the code from the merged pull request files (on your partner 1's GitHub repo) from each of the appropriate files to your own
-- initiate a git repository, commit your changes, and push to GitHub
 
 >**Note:** Partner2 should now have the solution from Part 1 locally
+
+- initiate a git repository, commit your changes, and push to GitHub
 
 **With partner1 driving:**
 
@@ -83,7 +84,7 @@ We've given you the HTML/CSS needed to get going in the [starter-code](starter-c
 
 #### Deliverable
 
-There is no screenshot for this lab.  You should have two separate GitHub repositories that have merged pull requests.  Try not to, but if you need, peak at the [command line/code answers to part 1](solution-code/command-line-answers.md) for help.
+There is no screenshot for this lab.  You should have two separate GitHub repositories that have merged pull requests.
 
 #### Bonus
 
