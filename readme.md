@@ -8,7 +8,6 @@ Market: SF
 ## Introduction
 > ***Note:*** *This is a pair programming activity.*
 
-
 Let's apply what we've learned from class to share and update each other's code.  With a partner, you're going to alternate between who 'drives' and who 'navigates' while following the requirements under "Exercise" below. The goal will be to create a project, have a partner fork, clone, and edit the project, submit the changes as a pull request, and then have the changes merged.  
 
 Feel free to look at the [earlier github lesson](https://github.com/den-wdi-2/git-and-github) for notes and helpful hints.
@@ -52,6 +51,7 @@ Partners will be referred to as partner1 and partner2.
 
 **With partner2 driving**:
 
+<!--This isn't the best design.  Rather than create a new folder, why don't we just have Partner 1 make some new changes and create a pull request? -->
 
 - create a folder called `git-and-github-practice-two` **inside your work folder**
 -  within that folder create the following files `index.html` and `style.css`
