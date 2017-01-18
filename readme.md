@@ -77,7 +77,6 @@ Partners will be referred to as partner1 and partner2.
 - use the [syncing a fork](https://help.github.com/articles/syncing-a-fork/) documentation to update partner2's local version of `git-and-github-practice` without copying and pasting any code
 - push the updated local copy to GitHub
 
-
 #### Starter code
 
 We've given you the HTML/CSS needed to get going in the [starter-code](starter-code).
@@ -85,16 +84,6 @@ We've given you the HTML/CSS needed to get going in the [starter-code](starter-c
 #### Deliverable
 
 There is no screenshot for this lab.  You should have two separate GitHub repositories that have merged pull requests.
-
-#### Bonus
-
-- Have you and your partner both cd back to git-and-github-practice.
-- Each of you create and checkout to a branch, either "css-work" or "html-work"
-- Make some change to the document your branch describes (style.css for branch "css-work" etc.)
-- Commit on that branch
-- Push your branch to github
-- Create a pull request from your branch to master
-- Have your partner merge your pull request!
 
 ## Additional Resources
 
