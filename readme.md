@@ -57,7 +57,8 @@ Partners will be referred to as partner1 and partner2.
 -  within that folder create the following files `index.html` and `style.css`
 -  copy and paste the code from the merged pull request files (on your partner 1's GitHub repo) from each of the appropriate files to your own
 - initiate a git repository, commit your changes, and push to GitHub
-> Note: Partner2 should now have the solution from Part 1 locally
+
+>**Note:** Partner2 should now have the solution from Part 1 locally
 
 **With partner1 driving:**
 
