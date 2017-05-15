@@ -30,13 +30,13 @@ Partners will be referred to as partner1 and partner2.
 - within that folder create the following files `index.html` and `style.css`
   - 'cd git-and-github-practice'
 - copy and paste the code from the [starter-code](starter-code) from the `index.html` and `style.css` into your own
-- Inside the `index.html`, we need to do a little re-branding change all of the occurrences of "Relaxr" to "Relaxor"
+- inside the `index.html`, we need to do a little re-branding, so change all of the occurrences of "Relaxr" to "Relaxor"
 - initiate a git repository, commit your changes, and push to GitHub
 
 
 **With partner2 driving, from their computer:**
 
-- get your partners link to the GitHub repository and fork and clone it
+- get your partner's link to the GitHub repository and fork and clone it
 - open the project and change the background color of the header and testimonial part of the page to a soft green
 - commit your changes and submit a pull request back to partner1
 
