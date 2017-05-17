@@ -10,7 +10,7 @@ Market: SF
 
 Let's apply what we've learned from class to share and update each other's code.  With a partner, you're going to alternate between who 'drives' and who 'navigates' while following the requirements under "Exercise" below. The goal will be to create a project, have a partner fork, clone, and edit the project, submit the changes as a pull request, and then have the changes merged.  
 
-Feel free to look at the [earlier github lesson](https://github.com/den-wdi-2/git-and-github) for notes and helpful hints.
+Feel free to look at the [earlier github lesson](https://github.com/den-materials/git-and-github) for notes and helpful hints.
 
 ## Exercise
 
@@ -49,24 +49,10 @@ Partners will be referred to as partner1 and partner2.
 
 ### Part 2
 
-**With partner2 driving**:
-
-<!--This isn't the best design.  Rather than create a new folder, why don't we just have Partner 1 make some new changes and create a pull request? -->
-
-- create a folder called `git-and-github-practice-two` **inside your work folder**
--  within that folder create the following files `index.html` and `style.css`
--  copy and paste the code from the merged pull request files (on your partner 1's GitHub repo) from each of the appropriate files to your own
-
->**Note:** Partner2 should now have the solution from Part 1 locally
-
-- initiate a git repository, commit your changes, and push to GitHub
-
 **With partner1 driving:**
 
-- get your partner's link to the new GitHub repository - fork and clone it
-- open the project and create a button below the "Join our Mailing List" one that says "Check out Something Random" that takes the user to a website of your choosing
-- commit your changes and submit a pull request back to partner2
-
+- open the project again and create a button below the "Join our Mailing List" one that says "Check out Something Random" that takes the user to a website of your choosing
+- commit your changes and submit a pull request back to partner2's fork
 
 **With partner2 driving:**
 
@@ -74,8 +60,8 @@ Partners will be referred to as partner1 and partner2.
 
 **Bonus**:
 
-- use the [syncing a fork](https://help.github.com/articles/syncing-a-fork/) documentation to update partner2's local version of `git-and-github-practice` without copying and pasting any code
-- push the updated local copy to GitHub
+- Have partner1 make one more change and push it to their fork.
+- Have partner2 use the [syncing a fork](https://help.github.com/articles/syncing-a-fork/) documentation to pull those changes locally without copying and pasting any code or creating a pull request
 
 #### Starter code
 
